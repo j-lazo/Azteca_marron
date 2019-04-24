@@ -16,6 +16,8 @@ Some videos documenting the tests carried out can be seen here:
 
 [Videos](https://www.youtube.com/channel/UCT0Ob93REGyEb-Z6Aw5lSOA)
 
+![azteca_mar](Reporte_Final/imagenes/AM.jpeg)
+
 ## Resume about the Desing and Implementation
 
 The key elements to consider during the design were: the detection ranges of the sensors, the price of the sensors, the processing speed of the board, the number of communication ports of the board and documentation existing on the web about it and the sensors, and the OS which the board was able to work with. In the case of the main control board, the steering wheel system and the braking system the characteristics taken into account were, the safety mechanism and the emergency brake system among others. 
