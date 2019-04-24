@@ -16,4 +16,13 @@ Some videos documenting the tests carried out can be seen here:
 
 [Videos](https://www.youtube.com/channel/UCT0Ob93REGyEb-Z6Aw5lSOA)
 
+## Resume about the Desing 
+
+The key elements to consider during the design were: the detection ranges of the sensors, the price of the sensors, the processing speed of the board, the number of communication ports of the board and documentation existing on the web about it and the sensors, and the OS which the board was able to work with. In the case of the main control board, the steering wheel system and the braking system the characteristics taken into account were, the safety mechanism and the emergency brake system among others. 
+
+![diagram1](Reporte_Final/imagenes/disenio_conceptual.jpg)
+
+The diagram shows the general concept of the structure of the vehicle. The vehicle counts with 4 batteries of 12v which power 2 brushless motors in the back wheels. The speed control is carried out by a specialized driver. In the case of the steering wheel system, the vehicle already counted with a transmission system which translates the movement of the steering wheel to the front wheels. Thus, the already existing structural elements were used in the design of the autonomous steering wheel system. 
+
+In the design of the detection system the structure of the car was taken into account, the sensors were placed only on the sides and on the fron due the fact that this vehicle wasn't able to go in reverse. 
 
