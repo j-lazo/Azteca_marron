@@ -70,12 +70,11 @@ A diagram of the connections of the different sensors and electronic components 
 
 ![diagram12](Reporte_Final/imagenes/diagrama_general.jpg)
 
-## Implementation and Results
+## Implementation and Results (CLICK ON THE IMAGES TO SEE THE VIDEOS)
 
 To test the functioning of the system several test were carried out, first individually for each functional part of the whole system, and afterwards with all the systems together. 
 
 Here are some videos for each of the tests:
-(CLICK ON THE IMAGES TO SEE THE VIDEOS)
 
 **Steering Wheel**
 
