@@ -50,4 +50,15 @@ And the electric diagram for the control of the breaking system
 
 ![diagram7](Reporte_Final/imagenes/freno_circuito.jpg)
 
+The control of the acceleration system was carried out by controling the driver of the brushless motors. The control of the acceleration in this driver is simple and it is directly proportional to the value of the voltage of the control signal. The automated acceleration was done by using the digital potenciometer MCP4130, which has the feature of serial comunication ISP.
+
+![diagram8](Reporte_Final/imagenes/acel_circuito.jpg)
+
+The detection of the surroundings was done by combining deveral sensors. Including the use of several SRF08 ultrasonic sensors, a LIDAR sensor and video cameras. 
+
+A diagram of the detection system together with the other systems is shown below.
+
+![diagram9](Reporte_Final/imagenes/arquitectura1.png)
+
+
 
