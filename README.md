@@ -70,5 +70,30 @@ A diagram of the connections of the different sensors and electronic components 
 
 ![diagram12](Reporte_Final/imagenes/diagrama_general.jpg)
 
+## Implementation and Results
+
+To test the functioning of the system several test were carried out, first individually for each functional part of the whole system, and afterwards with all the systems together. 
+
+Here are some videos for each of the tests:
+(CLICK ON THE IMAGES TO SEE THE VIDEOS)
+
+**Steering Wheel**
+
+[![Video3](Reporte_Final/imagenes/dir_estructura.jpg)](https://www.youtube.com/watch?v=VRCP_HGAPoY)
 
 
+**Breaking**
+
+[![Video5](Reporte_Final/imagenes/prueba_acel_sen.jpg)](https://www.youtube.com/watch?v=JBal6H1RdG0)
+
+[![Video4](Reporte_Final/imagenes/pruebas_acel_fren.jpg)](https://www.youtube.com/watch?v=4Yjv5Qnxm2E)
+
+**Edge detection**
+
+[![Video3](Reporte_Final/imagenes/image_bordes.jpg)](https://www.youtube.com/watch?v=uuc_Rj2KlbA)
+
+**All Systems**
+
+[![Video1](Reporte_Final/imagenes/acel_prueba.jpg)](https://www.youtube.com/watch?v=iNb3tEnApqQ)
+
+[![Video2](Reporte_Final/imagenes/pruebas_completo.jpg)](https://www.youtube.com/watch?v=VotrbeTwdBw)
