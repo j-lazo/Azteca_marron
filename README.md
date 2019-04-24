@@ -56,9 +56,19 @@ The control of the acceleration system was carried out by controling the driver 
 
 The detection of the surroundings was done by combining deveral sensors. Including the use of several SRF08 ultrasonic sensors, a LIDAR sensor and video cameras. 
 
+
+In the case of the video cameras they were used to detect the borders of the road, and with it try to keep the vehivle in the middle of the road. 
+
+![diagram9](Reporte_Final/imagenes/image_bordes.jpg)
+![diagram10](Reporte_Final/imagenes/Image_yellow.jpg)
+
 A diagram of the detection system together with the other systems is shown below.
 
-![diagram9](Reporte_Final/imagenes/arquitectura1.png)
+![diagram11](Reporte_Final/imagenes/arquitectura1.png)
+
+A diagram of the connections of the different sensors and electronic components is shown below
+
+![diagram12](Reporte_Final/imagenes/diagrama_general.jpg)
 
 
 
